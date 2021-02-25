@@ -1,3 +1,3 @@
 ## Generate TV Scripts
 
-![seinfeld](seinfeld_script.PNG)
+![seinfeld](seinfeld_script.png)
