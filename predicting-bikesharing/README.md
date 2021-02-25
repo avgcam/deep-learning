@@ -1,4 +1,4 @@
-## Predict Bike Sharing
+# Predict Bike Sharing
 
 ![Bike Share](img.png)
 
