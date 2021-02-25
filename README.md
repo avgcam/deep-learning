@@ -11,6 +11,6 @@ This is my repository for all projects completed throuhg the Udacity Deep Learni
   - Deploying a sentiment analysis model using AWS SageMaker
 
 
-Repository for all assignments and tuturials provided by udacity:
+Repository for all assignments and tuturials provided by Udacity:
 
 git clone https://github.com/udacity/deep-learning-v2-pytorch.git
