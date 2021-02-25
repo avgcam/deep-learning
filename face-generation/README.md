@@ -1,4 +1,4 @@
-## Generating Faces
+# Generating Faces
 
 ![face_generation_img](img/fg_img.PNG)
 
