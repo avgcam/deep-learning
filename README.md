@@ -2,7 +2,7 @@
 
 Greetings!
 
-This is my repository for all projects completed throuhg the Udacity Deep Learning Nanodegree program.
+This is my repository for all projects completed through the Udacity Deep Learning Nanodegree program.
  
   - Predict Bike Sharing using neural networks
   - Dog-breed classifier using convolutional neural networks (CNNs)
