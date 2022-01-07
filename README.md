@@ -13,4 +13,4 @@ This is my repository for all projects completed through the Udacity Deep Learni
 
 Repository for all assignments and tuturials provided by Udacity:
 
-> git clone https://github.com/udacity/deep-learning-v2-pytorch.git
+    git clone https://github.com/udacity/deep-learning-v2-pytorch.git
